@@ -168,6 +168,9 @@ h1, h2, p, span, a {
 .color_animation:hover{
     color: #9BE86F !important;
 }
+/* .color_animation.navactive:hover{
+    color: #9BE86F 
+} */
 /*========================
     NAV
 =========================*/
